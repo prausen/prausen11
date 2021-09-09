@@ -1,6 +1,6 @@
 {
-  "short_name": "MoonSwap",
-  "name": "MoonSwap",
+  "short_name": "MultiSwap",
+  "name": "MultiSwap",
   "icons": [
     {
       "src": "./logo.png",
@@ -11,6 +11,6 @@
   ],
   "orientation": "portrait",
   "display": "standalone",
-  "theme_color": "#ff007a",
+  "theme_color": "#110aa3",
   "background_color": "#fff"
 }
